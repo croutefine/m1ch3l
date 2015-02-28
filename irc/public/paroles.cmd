@@ -31,7 +31,48 @@ Quand le rythme s'accélère
 De la pierre pierre pierre pierre pierre
 Ces sentiments, c'est comme manger le fromage râpé avec les doigts ?
 Je sais déjà faire la ratatouille, les endives au jambon, le gratin et plein d'autres plats qui n'ont rien à voir avec une bonne purée.
-Quel est votre secret ?"
+Quel est votre secret ?
+Laissez-moi vous parler de ma maman
+Les sentiments c'est très très profond
+C'est comme prendre une loupe un jour de plein soleil et brûler des fourmis ?
+C'est très dur de lire dans ton coeur, mais je crois que j'ai compris
+Il y a tous les jours des figures à faire
+Tu inventes ton trick global
+Tu veux faire de ta vie une figure totale
+Gastéropode invertébré
+La vie t'as fait comme tu es
+Le son sort des enceintes vous entendez ?
+Vous entendez ce qu'elles sont capables de faire ?
+Elles produisent des sons et notre musique de tous les jours
+Vous m'entendez ? Oui vous m'entendez là. Et vous pouvez entendre le son qui m'accompagne ? 
+Oui oui oui la la la ces mots sortent de ma bouche mais en fait non ils sortent des enceintes
+Je suis bien content que vous ayez une enceinte
+C'est un objet tout simple et pourtant...
+Bonjour cher ami, je sais que cette lettre vous parviendra telle une surprise
+Je suis Monsieur Paul Compaoré, directeur du département d'audit d'une banque au Burkina Faso
+Tout est trop noir comme dans un trou noir
+Tout est rapide comme dans un rapide
+Tout est bizarre comme dans le blizzard
+Il joue de l'ordinateur debout, son clavier virevolte, sa souris danse
+Ensemble, nous allons faire du très bon travail
+Tiens je t'envoie un mp3
+Ta mémoire dure en a vus plein, mais des comme ça aucun
+J'entends le vent qui m'appelle, cette mélodie est si belle, que même le ciel, ne pourrait la chanter
+J'entends l'écho du voyage, la mélodie des nuages, au fil des âges, m'annonce notre départ
+Vacances, le monde nous appelle
+Vacances, ça nous donne des ailes
+Vacances, c'est notre respect qui va nous guider
+De la truite au silure, les poissons sont numériques, mais les sensations sont bien réelles
+Sensationnel le simulateur de pêche
+Le simulateur de pêche c'est génial car il me fait oublier tous mes problèmes
+Pour évacuer le stress, rien de mieux qu'un peu de sport
+Je suis charpentier, je fais des toits pour toi
+Une corde cosmique se forme lors d'une transition de phase dans l'univers primordial résultant d'une brisure spontanée de symétrie
+Un point translaté donne un segment
+Un segment translaté donne un carré
+Un carré translaté donne un cube
+Un cube translaté donne un tesseract
+Ce n'est qu'un mouvement vectoriel, ce n'est qu'une translation, c'est purement, simplement de l'algèbre linéaire"
 
 text=$(echo "$paroles" | sort -R | head -1)
 
